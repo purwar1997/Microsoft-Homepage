@@ -1,23 +1,23 @@
-# Microsoft Landing Page
+# Microsoft Home Page
 
 ![HTML](https://img.shields.io/badge/-HTML-red)
 ![CSS](https://img.shields.io/badge/-CSS-brightgreen)
-![Landing Page](https://img.shields.io/badge/-Landing%20Page-blueviolet)
+![Home Page](https://img.shields.io/badge/-Home%20Page-blueviolet)
 
 ## Description
 
-This project is a landing page for Microsoft website. It is created using HTML and CSS and is responsive for both mobile and tablet screens.
+This project is a home page for Microsoft website. It is created using HTML and CSS and is responsive for both mobile and tablet screens.
 
-## Components of a landing page
+## Components of the homepage
 
-This landing page is divided into following sections :-
+This homepage is divided into following sections :-
 
 - Navbar
 - Header / Showcase section
 - Product display section
 - Xbox section
 - Services display section
-- Carbon section
+- Carbon negative section
 - Social links
 - Footer
 
@@ -25,4 +25,4 @@ This landing page is divided into following sections :-
 
 ![Preview](./preview/preview1.png)
 
-### [**Live link**](https://microsoft-landing-page-wvty.vercel.app/) of the project.
+### [**Live link**](https://microsoft-home-page-bice.vercel.app/) of the project.
