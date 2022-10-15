@@ -206,7 +206,7 @@ i.fa-chevron-right {
   margin-top: 25px;
 }
 
-/* Services */
+/* Services section */
 .services .container {
   display: grid;
   grid-template-columns: repeat(4, 1fr);
@@ -233,7 +233,7 @@ i.fa-chevron-right {
   transform: translateX(4px);
 }
 
-/* Carbon section */
+/* Carbon negative section */
 .carbon .container {
   padding-top: 0px;
   padding-bottom: 5px;
@@ -270,7 +270,7 @@ i.fa-chevron-right {
   background-color: #eee;
 }
 
-/* Socials section */
+/* Social links section */
 .socials .container {
   display: flex;
   align-items: center;
@@ -285,7 +285,7 @@ i.fa-chevron-right {
   width: 30px;
 }
 
-/* Footer section */
+/* Footer */
 footer {
   padding: 30px;
   background-color: #eee;
