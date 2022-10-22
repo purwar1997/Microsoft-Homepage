@@ -83,4 +83,13 @@
     padding-left: 15px;
     padding-right: 15px;
   }
+
+  .logo {
+    width: 120px;
+  }
+
+  footer {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
 }
